@@ -1,16 +1,10 @@
 Package: hotvideo-downloader
 Version: 1.3.2
 Architecture: all
+Priority: optional
+Section: utils
 Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
 Installed-Size: 1103
 Depends: python, python-yt-dlp, yt-dlp-ejs, aria2, ffmpeg
-Filename: ./hotvideo-downloader_v1.3.2_all.deb
-Size: 32100
-MD5sum: c9673e4d3fc463c3bc7e42e5f1c9dbbf
-SHA1: da779bafd37c3844a5c39d238bd3aaad23dad7d9
-SHA256: 34908d1b266e4eba41578d661c2fcaa9830e7036fa30ab3884e831801a4277eb
-Section: utils
-Priority: optional
 Homepage: https://github.com/iksan757/pkg-hotvideo-downloader
 Description: Fast video downloader that extracts direct stream links with custom quality and high-speed DNS
-

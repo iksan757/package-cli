@@ -1,0 +1,75 @@
+{
+  "name": "pkg hotvideo-downloader",
+  "usage": "hotvideo <URL> [Commands]",
+  "commands": [
+    {
+      "flags": "-h, --help",
+      "description": "Show this help message."
+    },
+    {
+      "flags": "-d, --dns",
+      "description": "Enable custom secure DNS (Cloudflare 1.1.1.1)."
+    },
+    {
+      "flags": "-r, --res <QUALITY>",
+      "description": "Specify resolution quality: [240p, 360p, 480p, 720p, 1080p, best]"
+    },
+    {
+      "flags": "-i, --interactive",
+      "description": "Interactive mode (dialogue, resolution & rename)."
+    },
+    {
+      "flags": "--rename <NAME>",
+      "description": "Specify custom output filename."
+    },
+    {
+      "flags": "--view",
+      "description": "Extract and display direct download link only."
+    },
+    {
+      "flags": "-c, --config",
+      "description": "Configure custom download directory."
+    },
+    {
+      "flags": "-u, --update",
+      "description": "Update core packages and dependencies."
+    },
+    {
+      "flags": "-v, --version",
+      "description": "Display current program version."
+    }
+  ],
+  "notes": "If the target resolution is not natively available on the server, an interactive dialogue will prompt you to automatically convert and scale the video using FFmpeg.",
+  "examples": [
+    {
+      "title": "Basic Download",
+      "command": "hotvideo https://example.com/video"
+    },
+    {
+      "title": "Download with Custom DNS",
+      "command": "hotvideo https://example.com/video --dns"
+    },
+    {
+      "title": "Specify Resolution & Custom Filename",
+      "command": "hotvideo https://example.com/video -r 720p --rename my_video.mp4"
+    },
+    {
+      "title": "Extract Direct Link Only",
+      "command": "hotvideo https://example.com/video --view"
+    },
+    {
+      "title": "Interactive Mode",
+      "command": "hotvideo -i"
+    }
+  ],
+  "links": [
+    {
+      "type": "Drop in",
+      "label": "https://github.com/iksan757/pkg-hotvideo-downloader"
+    },
+    {
+      "type": "Buy me a coffee",
+      "label": "https://saweria.co/tuanmuda7"
+    }
+  ]
+}
