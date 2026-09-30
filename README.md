@@ -20,17 +20,20 @@ Fast CLI video downloader that extracts direct stream links with custom quality 
 
 📱 1. Termux
 ```
-echo "deb [trusted=yes] [https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/](https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/) ./" > $PREFIX/etc/apt/sources.list.d/hotvideo.list && apt update && pkg install hotvideo-downloader
+echo "deb [trusted=yes] https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/ ./" > $PREFIX/etc/apt/sources.list.d/hotvideo.list
+apt-get update
 
 ```
 🐧 2. Debian / Ubuntu / Kali Linux / Mint
 ```
-curl -LO [https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/hotvideo-downloader_1.0.0_all.deb](https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/hotvideo-downloader_1.0.0_all.deb) && sudo apt update && sudo apt install -y ./hotvideo-downloader_1.0.0_all.deb && rm hotvideo-downloader_1.0.0_all.deb
+curl -LO https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/hotvideo-downloader_1.3.2_all.deb) && sudo apt update && sudo apt install -y ./hotvideo-downloader_1.3.2_all.deb && rm hotvideo-downloader_1.3.2_all.deb
 
 ```
 🏹 3. Arch Linux / Manjaro
 ```
-sudo pacman -S --needed --noconfirm yt-dlp aria2 python ffmpeg curl && sudo curl -Lo /usr/local/bin/hotvideo [https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/bin/hotvideo](https://raw.githubusercontent.com/iksan757/pkg-hotvideo-downloader/main/bin/hotvideo) && sudo chmod +x /usr/local/bin/hotvideo
+sudo pacman -S --needed --noconfirm yt-dlp aria2 python ffmpeg curl git && git clone 
+https://github.com/iksan757/pkg-hotvideo-downloader.git && sudo cp pkg-hotvideo-downloader/bin/*  /usr/local/bin/ && mkdir -p /usr/local/share/hotvideo && sudo cp
+cp pkg-hotvideo-downloader/share/* /usr/local/share/hotvideo && chmod +x  /usr/local/bin/hotvideo && chmod +x /usr/local/share/hotvideo/*
 
 ```
 🪟 4. Windows (via WSL / Ubuntu / Git Bash)
