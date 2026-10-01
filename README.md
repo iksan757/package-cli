@@ -13,7 +13,6 @@ Fast CLI video downloader that extracts direct stream links with custom quality 
 - ⚡ **High-Speed DNS:** Integrated Cloudflare DNS (`1.1.1.1`) support for a stable downloading process.
 - 🎛️ **Dual Usage Modes:** Supports both direct command-line arguments and an interactive terminal menu (`-i`).
 - 📁 **Custom Storage:** Configure download save paths directly via arguments.
-- 📦 **Automatic Dependency Handling:** Runs seamlessly with `python`, `python-yt-dlp`, `aria2`, `ffmpeg`, and `yt-dlp-ejs`.
 
 ---
 ## 📥  Installation
@@ -80,6 +79,7 @@ This application requires the following tools (automatically installed via the i
 - [yt-dlp-ejs](https://github.com/yt-dlp/ejs)
 - [aria2](https://aria2.github.io)
 - [ffmpeg](https://ffmpeg.org)
+- [dnsutils](https://www.isc.org/bind/)
 
 ---
 
