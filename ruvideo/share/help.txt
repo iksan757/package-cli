@@ -1,0 +1,32 @@
+
+USAGE:
+  ruvideo <URL> [OPTIONS]
+
+OPTIONS:
+  -o, --output <FILENAME>   Set custom output video filename.
+                            (Default: Auto-generated from target domain)
+  -d, --dir <DIRECTORY>     Set target directory path.
+                            (Default: /sdcard/Download or current working directory)
+  --dns <DNS_IP>            Use custom DNS server (e.g. 1.1.1.1 / 8.8.8.8)
+                            to bypass ISP blockings.
+  -h, --help                Display this help message.
+  -v, --version             Display version information.
+
+EXAMPLES:
+  1. Default Download (Auto-rename from domain):
+     ruvideo "https://example.com/watch/123"
+
+  2. Download with Custom Filename:
+     ruvideo "https://example.com/watch/123" -o my_video.mp4
+
+  3. Download to Custom Directory with Rename:
+     ruvideo "https://example.com/watch/123" -o my_video.mp4 -d /sdcard/Movies
+
+  4. Download using Custom DNS (Anti-Block):
+     ruvideo "https://example.com/watch/123" --dns 1.1.1.1
+
+  5. Full Command Combination:
+     ruvideo "https://example.com/watch/123" -o my_video.mp4 -d /sdcard/Movies --dns 1.1.1.1
+
+Support / Donation:
+  Buy me a coffee ☕ : https://saweria.co/tuanmuda7

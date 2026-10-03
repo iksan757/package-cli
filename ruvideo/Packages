@@ -1,0 +1,16 @@
+Package: ruvideo
+Version: 19.2.0
+Architecture: all
+Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
+Installed-Size: 4762
+Depends: ca-certificates, openssl
+Filename: ./ruvideo_19.2.0_all.deb
+Size: 1281684
+MD5sum: aff3a024079e4424ff505799fe877947
+SHA1: fce90772aba1ab2bf3abb8c3d5d11afe2fb34225
+SHA256: ae4c3adaed4c99db2884decd3a72fca848ff36107a66e514c1e87433318f2703
+Section: utils
+Priority: optional
+Homepage: https://github.com/iksan757/package-cli
+Description: Fast and simple video downloader tool written in Rust forfetching media links directly from the CLI
+
