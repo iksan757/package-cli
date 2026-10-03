@@ -1,0 +1,32 @@
+Package: hotvideo-downloader
+Version: 1.3.2
+Architecture: all
+Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
+Installed-Size: 1102
+Depends: python, python-yt-dlp, yt-dlp-ejs, aria2, ffmpeg
+Filename: ./hotvideo-downloader/hotvideo-downloader_1.3.2_all.deb
+Size: 162056
+MD5sum: c86a20a604c939cd78698569ec8e04ff
+SHA1: 45f32bfe6603cf0d98411561a430e2ac0c288334
+SHA256: c9240e66d98c5b192e6b0ba822b3bc955dc6a00373653ff5861bc7b74d9bfb75
+Section: utils
+Priority: optional
+Homepage: https://github.com/iksan757/pkg-hotvideo-downloader
+Description: Fast video downloader that extracts direct stream links with custom features.
+
+Package: ruvideo
+Version: 19.2.0
+Architecture: all
+Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
+Installed-Size: 4762
+Depends: ca-certificates, openssl
+Filename: ./ruvideo/ruvideo_19.2.0_all.deb
+Size: 1281684
+MD5sum: aff3a024079e4424ff505799fe877947
+SHA1: fce90772aba1ab2bf3abb8c3d5d11afe2fb34225
+SHA256: ae4c3adaed4c99db2884decd3a72fca848ff36107a66e514c1e87433318f2703
+Section: utils
+Priority: optional
+Homepage: https://github.com/iksan757/package-cli
+Description: Fast and simple video downloader tool written in Rust forfetching media links directly from the CLI
+
