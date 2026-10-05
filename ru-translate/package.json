@@ -1,0 +1,30 @@
+{
+  "name": "ru-translate",
+  "version": "18.9.0",
+  "description": "Easy CLI Translation all languages",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iksan757/package-cli"
+  },
+  "license": "MIT",
+  "author": "iksan rumasoreng <rumasoreng757@gmail.com>",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "rutrans": "dist/cli.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc && chmod +x dist/cli.js",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

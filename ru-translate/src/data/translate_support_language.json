@@ -1,0 +1,242 @@
+[
+  {
+    "code": "ar",
+    "nameEn": "Arabic",
+    "nameZh": "阿拉伯语",
+    "nameNative": "العربية"
+  },
+  {
+    "code": "bn",
+    "nameEn": "Bengali",
+    "nameZh": "孟加拉语",
+    "nameNative": "বাংলা"
+  },
+  {
+    "code": "bg",
+    "nameEn": "Bulgarian",
+    "nameZh": "保加利亚语",
+    "nameNative": "Български"
+  },
+  {
+    "code": "zh",
+    "nameEn": "Chinese(Simplified)",
+    "nameZh": "中文（简体）",
+    "nameNative": "中文（简体）"
+  },
+  {
+    "code": "zh-TW",
+    "nameEn": "Chinese(Traditional)",
+    "nameZh": "中文（繁體）",
+    "nameNative": "中文（繁體）"
+  },
+  {
+    "code": "cs",
+    "nameEn": "Czech",
+    "nameZh": "捷克语",
+    "nameNative": "Čeština"
+  },
+  {
+    "code": "da",
+    "nameEn": "Danish",
+    "nameZh": "丹麦语",
+    "nameNative": "Dansk"
+  },
+  {
+    "code": "nl",
+    "nameEn": "Dutch",
+    "nameZh": "荷兰语",
+    "nameNative": "Nederlands"
+  },
+  {
+    "code": "en",
+    "nameEn": "English",
+    "nameZh": "英语",
+    "nameNative": "English"
+  },
+  {
+    "code": "fi",
+    "nameEn": "Finnish",
+    "nameZh": "芬兰语",
+    "nameNative": "Suomi"
+  },
+  {
+    "code": "fr",
+    "nameEn": "French",
+    "nameZh": "法语",
+    "nameNative": "Français"
+  },
+  {
+    "code": "de",
+    "nameEn": "German",
+    "nameZh": "德语",
+    "nameNative": "Deutsch"
+  },
+  {
+    "code": "el",
+    "nameEn": "Greek",
+    "nameZh": "希腊语",
+    "nameNative": "Ελληνικά"
+  },
+  {
+    "code": "he",
+    "nameEn": "Hebrew",
+    "nameZh": "希伯来语",
+    "nameNative": "עברית"
+  },
+  {
+    "code": "hi",
+    "nameEn": "Hindi",
+    "nameZh": "印地语",
+    "nameNative": "हिन्दी"
+  },
+  {
+    "code": "hu",
+    "nameEn": "Hungarian",
+    "nameZh": "匈牙利语",
+    "nameNative": "Magyar"
+  },
+  {
+    "code": "id",
+    "nameEn": "Indonesian",
+    "nameZh": "印尼语",
+    "nameNative": "Bahasa Indonesia"
+  },
+  {
+    "code": "it",
+    "nameEn": "Italian",
+    "nameZh": "意大利语",
+    "nameNative": "Italiano"
+  },
+  {
+    "code": "ja",
+    "nameEn": "Japanese",
+    "nameZh": "日语",
+    "nameNative": "日本語"
+  },
+  {
+    "code": "ko",
+    "nameEn": "Korean",
+    "nameZh": "韩语",
+    "nameNative": "한국어"
+  },
+  {
+    "code": "ms",
+    "nameEn": "Malay",
+    "nameZh": "马来语",
+    "nameNative": "Bahasa Melayu"
+  },
+  {
+    "code": "ml",
+    "nameEn": "Malayalam",
+    "nameZh": "马拉雅拉姆语",
+    "nameNative": "മലയാളം"
+  },
+  {
+    "code": "mr",
+    "nameEn": "Marathi",
+    "nameZh": "马拉地语",
+    "nameNative": "मराठी"
+  },
+  {
+    "code": "no",
+    "nameEn": "Norwegian",
+    "nameZh": "挪威语",
+    "nameNative": "Norsk"
+  },
+  {
+    "code": "fa",
+    "nameEn": "Persian",
+    "nameZh": "波斯语",
+    "nameNative": "فارسی"
+  },
+  {
+    "code": "pl",
+    "nameEn": "Polish",
+    "nameZh": "波兰语",
+    "nameNative": "Polski"
+  },
+  {
+    "code": "pt",
+    "nameEn": "Portuguese",
+    "nameZh": "葡萄牙语",
+    "nameNative": "Português"
+  },
+  {
+    "code": "ro",
+    "nameEn": "Romanian",
+    "nameZh": "罗马尼亚语",
+    "nameNative": "Română"
+  },
+  {
+    "code": "ru",
+    "nameEn": "Russian",
+    "nameZh": "俄语",
+    "nameNative": "Русский"
+  },
+  {
+    "code": "sk",
+    "nameEn": "Slovak",
+    "nameZh": "斯洛伐克语",
+    "nameNative": "Slovenčina"
+  },
+  {
+    "code": "es",
+    "nameEn": "Spanish",
+    "nameZh": "西班牙语",
+    "nameNative": "Español"
+  },
+  {
+    "code": "sw",
+    "nameEn": "Swahili",
+    "nameZh": "斯瓦希里语",
+    "nameNative": "Kiswahili"
+  },
+  {
+    "code": "sv",
+    "nameEn": "Swedish",
+    "nameZh": "瑞典语",
+    "nameNative": "Svenska"
+  },
+  {
+    "code": "ta",
+    "nameEn": "Tamil",
+    "nameZh": "泰米尔语",
+    "nameNative": "தமிழ்"
+  },
+  {
+    "code": "te",
+    "nameEn": "Telugu",
+    "nameZh": "泰卢固语",
+    "nameNative": "తెలుగు"
+  },
+  {
+    "code": "th",
+    "nameEn": "Thai",
+    "nameZh": "泰语",
+    "nameNative": "ไทย"
+  },
+  {
+    "code": "tr",
+    "nameEn": "Turkish",
+    "nameZh": "土耳其语",
+    "nameNative": "Türkçe"
+  },
+  {
+    "code": "uk",
+    "nameEn": "Ukrainian",
+    "nameZh": "乌克兰语",
+    "nameNative": "Українська"
+  },
+  {
+    "code": "ur",
+    "nameEn": "Urdu",
+    "nameZh": "乌尔都语",
+    "nameNative": "اردو"
+  },
+  {
+    "code": "vi",
+    "nameEn": "Vietnamese",
+    "nameZh": "越南语",
+    "nameNative": "Tiếng Việt"
+  }
+]

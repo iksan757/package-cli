@@ -1,0 +1,11 @@
+[
+  { "code": "ar", "nameEn": "Arabic", "nameNative": "العربية" },
+  { "code": "bn", "nameEn": "Bengali", "nameNative": "বাংলা" },
+  { "code": "bg", "nameEn": "Bulgarian", "nameNative": "Български" },
+  { "code": "zh", "nameEn": "Chinese(Simplified)", "nameNative": "中文（简体）" },
+  { "code": "zh-TW", "nameEn": "Chinese(Traditional)", "nameNative": "中文（繁體）" },
+  { "code": "en", "nameEn": "English", "nameNative": "English" },
+  { "code": "id", "nameEn": "Indonesian", "nameNative": "Bahasa Indonesia" },
+  { "code": "ja", "nameEn": "Japanese", "nameNative": "日本語" },
+  { "code": "ru", "nameEn": "Russian", "nameNative": "Русский" }
+]
