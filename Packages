@@ -14,6 +14,22 @@ Priority: optional
 Homepage: https://github.com/iksan757/pkg-hotvideo-downloader
 Description: Fast video downloader that extracts direct stream links with custom features.
 
+Package: ru-locking
+Version: 7.68.9
+Architecture: all
+Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
+Installed-Size: 2774
+Depends: libiconv, libc++
+Filename: ./ru-locking/ru-locking_7.68.9_all.deb
+Size: 710152
+MD5sum: 4be2ab9c19ac55e674e0a24ad905845b
+SHA1: 13ce32326987eb6a9157ba567148539200676d68
+SHA256: b3c199f93dc2dbfd4af5b7e35904b35d3857b55aef09e21df94594fe79c03301
+Section: utils
+Priority: optional
+Homepage: https://github.com/iksan757/package-cli/main/ru-locking
+Description: Fast search tool like grep, there are alsoTUI interactive
+
 Package: ruvideo
 Version: 19.2.0
 Architecture: all
