@@ -22,27 +22,27 @@ Installed-Size: 2774
 Depends: libiconv, libc++
 Filename: ./ru-locking/ru-locking_7.68.9_all.deb
 Size: 710152
-MD5sum: 4be2ab9c19ac55e674e0a24ad905845b
-SHA1: 13ce32326987eb6a9157ba567148539200676d68
-SHA256: b3c199f93dc2dbfd4af5b7e35904b35d3857b55aef09e21df94594fe79c03301
+MD5sum: 609beac93bf29a871d420841a7625173
+SHA1: 2632e62ab43c0ab09b03a97c8aa3da87e2107fed
+SHA256: 1d442d24fd1ddafe776e297c51dc7c1104e9d9824dbfec878ca73bcb64c3f900
 Section: utils
 Priority: optional
-Homepage: https://github.com/iksan757/package-cli/main/ru-locking
+Homepage: https://github.com/iksan757/package-cli
 Description: Fast search tool like grep, there are alsoTUI interactive
 
 Package: ruvideo
 Version: 19.2.0
 Architecture: all
 Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
-Installed-Size: 9482
+Installed-Size: 10022
 Depends: ca-certificates, openssl
 Filename: ./ruvideo/ruvideo_19.2.0_all.deb
-Size: 2001812
-MD5sum: 633482f9bb56108d4a68048e5e7f89d9
-SHA1: f033d14d3c195714f904416a1808e85a88e99578
-SHA256: 56faedbc6f5a00ff91bcac648c304894c1665cb0a0f7e251fc52255a84c19224
+Size: 2151288
+MD5sum: 7b227652d4956020203ae2c4ef4a5955
+SHA1: 858342ceb574e5c8e2dab2c1950a1358aec98a57
+SHA256: a2080ede86995c8ae2b1a96b4fec24c2d504cf5c90af350d9359e6c88a94cd1d
 Section: utils
 Priority: optional
-Homepage: https://github.com/iksan757/package-cli/main/ruvideo
+Homepage: https://github.com/iksan757/package-cli
 Description: Fast and simple video downloader tool written in Rust forfetching media links directly from the CLI
 
