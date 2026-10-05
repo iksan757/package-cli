@@ -34,13 +34,13 @@ Package: ruvideo
 Version: 19.2.0
 Architecture: all
 Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
-Installed-Size: 4762
+Installed-Size: 9482
 Depends: ca-certificates, openssl
 Filename: ./ruvideo/ruvideo_19.2.0_all.deb
-Size: 1543820
-MD5sum: 41d9b2d4f9162340ed1df83a236c8877
-SHA1: b298db540caebe95bed37c379055158b37d6ebdb
-SHA256: 36e55088887a3780a600bc6c002987533d8cfb9e70746d6778d64258697be7e3
+Size: 2001812
+MD5sum: 633482f9bb56108d4a68048e5e7f89d9
+SHA1: f033d14d3c195714f904416a1808e85a88e99578
+SHA256: 56faedbc6f5a00ff91bcac648c304894c1665cb0a0f7e251fc52255a84c19224
 Section: utils
 Priority: optional
 Homepage: https://github.com/iksan757/package-cli/main/ruvideo
