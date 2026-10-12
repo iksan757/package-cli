@@ -37,10 +37,10 @@ Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
 Installed-Size: 10022
 Depends: ca-certificates, openssl
 Filename: ./ruvideo/ruvideo_19.2.0_all.deb
-Size: 2151288
-MD5sum: 7b227652d4956020203ae2c4ef4a5955
-SHA1: 858342ceb574e5c8e2dab2c1950a1358aec98a57
-SHA256: a2080ede86995c8ae2b1a96b4fec24c2d504cf5c90af350d9359e6c88a94cd1d
+Size: 1521196
+MD5sum: 1bd1cc0629726eb74370e364ca735a13
+SHA1: e73f80dbe0bea35d81325e6127d579b4d1ae2afc
+SHA256: 80d9fac5bbf05b5b0475a5b77288b6339c5eae680b640c38a915c3373c4ee19c
 Section: utils
 Priority: optional
 Homepage: https://github.com/iksan757/package-cli
