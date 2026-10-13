@@ -1,6 +1,6 @@
-# RUVIDEO V19.2.0
+# RUVIDEO 
 
-Fast and simple video downloader tool written in Rust forfetching media links directly from the CLI
+- Fast and simple video downloader tool written in Rust forfetching media links directly from the CLI
 ---
 ## EXAMPLE 
 - Create rename
@@ -25,13 +25,6 @@ ruvideo --help
 ``'
 ---
 
-## NOTE
-
-Take the link from the video streaming website, wait until play and copy the link in your
-browser bar
-
----
-
-## For Support
+# For Support
 *  Treat me to coffee ☕: [Treat](https://saweria.co/tuanmuda7)
 *  Instagram: *@ikhsan_11rs*
