@@ -1,4 +1,4 @@
-#  Videoc-Downloader
+#  Videoc-Download
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20Windows-blue)](https://github.com/iksan757/package-cli)
