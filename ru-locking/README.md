@@ -1,8 +1,7 @@
-# ru-locking
-
-- **ru-locking** is a high-performance, recursive text search tool built with Rust, designed as an alternative to tools like `grep` and `ripgrep`. It features folder name search support, hidden file filtering, piping (`stdin`) integration, and a live search interface (**Interactive Live TUI Mode**).
+# RU-LOCKING
+-  **ru-locking** is a high-performance, recursive text search tool built with Rust, designed as an alternative to tools like `grep` and `ripgrep`. It features folder name search support, hidden file filtering, piping (`stdin`) integration, and a live search interface (**Interactive Live TUI Mode**).
 ---
-## Key Features
+# Key Features
 
 - **Super Fast & Parallel**: Uses `rayon` for multithreaded file scanning.
 - **Folder Name Search (`-D`)**: Precisely search for directory names (including hidden folders).
