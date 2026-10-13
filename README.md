@@ -1,4 +1,4 @@
-# PACKAGE-CLU
+# PACKAGE-CLI
 
 A collection of tools that are in the head, now at the top of this page
 
