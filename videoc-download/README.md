@@ -44,17 +44,21 @@ sudo apt update && sudo apt install -y python3 yt-dlp ffmpeg aria2 git && git cl
 ##  Usage
 
 Once installation is complete, you can immediately run the `videoc` command:
+
+- Direct download (Default resolution 480p)
 ```
-Direct download (Default resolution 480p)
   videoc "[https://example.com/video](https://example.com/video)"
-
-Custom resolution option (240p / 360p / 480p / 720p / 1080p)
+```
+- Custom resolution option (240p / 360p / 480p / 720p / 1080p)
+```
   videoc "[https://example.com/video](https://example.com/video)" -r 720p
-
-Use fast Cloudflare DNS connection (1.1.1.1)
+```
+- Use fast Cloudflare DNS connection (1.1.1.1)
+```
    videoc "[https://example.com/video](https://example.com/video)" -r 1080p -d
-
-Interactive mode (Terminal menu)
+```
+- Interactive mode (Terminal menu)
+```
    videoc -i
 ```
 ---
