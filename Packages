@@ -1,19 +1,3 @@
-Package: hotvideo-downloader
-Version: 1.3.2
-Architecture: all
-Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
-Installed-Size: 1102
-Depends: python, python-yt-dlp, yt-dlp-ejs, aria2, ffmpeg
-Filename: ./hotvideo-downloader/hotvideo-downloader_1.3.2_all.deb
-Size: 162056
-MD5sum: c86a20a604c939cd78698569ec8e04ff
-SHA1: 45f32bfe6603cf0d98411561a430e2ac0c288334
-SHA256: c9240e66d98c5b192e6b0ba822b3bc955dc6a00373653ff5861bc7b74d9bfb75
-Section: utils
-Priority: optional
-Homepage: https://github.com/iksan757/pkg-hotvideo-downloader
-Description: Fast video downloader that extracts direct stream links with custom features.
-
 Package: ru-locking
 Version: 7.68.9
 Architecture: all
@@ -45,4 +29,20 @@ Section: utils
 Priority: optional
 Homepage: https://github.com/iksan757/package-cli
 Description: Fast and simple video downloader tool written in Rust forfetching media links directly from the CLI
+
+Package: videoc-download
+Version: 1.3.7
+Architecture: all
+Maintainer: Iksan Rumasoreng <rumasoreng757@gmail.com>
+Installed-Size: 330
+Depends: python, python-yt-dlp, yt-dlp-ejs, aria2, ffmpeg
+Filename: ./videoc-download/videoc-download_1.3.7_all.deb
+Size: 86288
+MD5sum: 971e722b3735efb7922a6b3a7e27358e
+SHA1: 518e058819a23e79a11024b41914147b528bbdbc
+SHA256: 8a72f56fb2988d7f6a2c3675ea18e57c1cde997d31b4e0f7432138adc9525adc
+Section: utils
+Priority: optional
+Homepage: https://github.com/iksan757/package-cli
+Description: Fast video downloader that extracts direct stream links with custom features
 
