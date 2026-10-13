@@ -22,7 +22,7 @@ ruvideo "URL" -o example.mp4 -d path/path/ --dns 1.1.1.1
 -  more information
 ```
 ruvideo --help
-``'
+```
 ---
 
 # For Support
